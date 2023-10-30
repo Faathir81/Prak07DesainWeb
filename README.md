@@ -8,4 +8,4 @@ Untuk memenuhi tugas desain web
 </ul>
 
 # Hasil Run
-![image](https://github.com/Faathir81/Prak07DesainWeb/assets/145968943/635cd620-0ec8-46a1-bd5d-173158e207b1)
+![image](https://github.com/Faathir81/Prak07DesainWeb/assets/145968943/48539c91-4fd5-4817-9e91-3ed5fd43192d)
